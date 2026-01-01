@@ -1,0 +1,5 @@
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\CleanChef\obj\Release\netstandard2.0\CleanChef.csproj.AssemblyReference.cache
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\CleanChef\obj\Release\netstandard2.0\CleanChef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\CleanChef\obj\Release\netstandard2.0\CleanChef.AssemblyInfoInputs.cache
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\CleanChef\obj\Release\netstandard2.0\CleanChef.AssemblyInfo.cs
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\CleanChef\obj\Release\netstandard2.0\CleanChef.csproj.CoreCompileInputs.cache
