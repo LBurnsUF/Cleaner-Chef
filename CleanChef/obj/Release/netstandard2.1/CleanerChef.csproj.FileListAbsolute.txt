@@ -8,3 +8,14 @@ C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\CleanChef\obj\Releas
 C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\CleanChef\obj\Release\netstandard2.1\CleanerChef.csproj.CoreCompileInputs.cache
 C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\CleanChef\obj\Release\netstandard2.1\CleanerChef.dll
 C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\CleanChef\obj\Release\netstandard2.1\CleanerChef.pdb
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\bin\Release\netstandard2.1\CleanerChef.deps.json
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\bin\Release\netstandard2.1\CleanerChef.dll
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\bin\Release\netstandard2.1\CleanerChef.pdb
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\obj\Release\netstandard2.1\CleanerChef.csproj.AssemblyReference.cache
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\obj\Release\netstandard2.1\CleanerChef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\obj\Release\netstandard2.1\CleanerChef.AssemblyInfoInputs.cache
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\obj\Release\netstandard2.1\CleanerChef.AssemblyInfo.cs
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\obj\Release\netstandard2.1\CleanerChef.csproj.CoreCompileInputs.cache
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\obj\Release\netstandard2.1\CleanerChef.sourcelink.json
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\obj\Release\netstandard2.1\CleanerChef.dll
+C:\Users\logan\Desktop\Personal Projects\LBurnsUF\CleanChef\Cleaner-Chef\CleanChef\obj\Release\netstandard2.1\CleanerChef.pdb

@@ -1,6 +1,6 @@
 {
   "name": "CleanerChef",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/LBurnsUF/Cleaner-Chef",
   "description": "Chefs are sanitary, especially CHEF. Disables void corruption while a CHEF is present.",
   "dependencies": [

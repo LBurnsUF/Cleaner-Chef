@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanerChef")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+411e517775f83fa3b6b6d33ebb2a2ffa1df28283")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanerChef")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanerChef")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

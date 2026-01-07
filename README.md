@@ -1,5 +1,1 @@
-### Cleaner Chef
-
----
-
-A chef doesn't cross contaminate! Simply disables void corruption while a chef is present, to allow for cleaner crafting.
+### Cleaner Chef  ---   A Chef doesn't cross-contaminate! Disables Void corruption while a CHEF is present in a sanitary environment, allowing you to enjoy some delicious Sautéed Worms.  Stage config available in settings.

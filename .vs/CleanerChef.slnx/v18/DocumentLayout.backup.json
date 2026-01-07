@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{17EF00CF-E94E-4E4F-1D25-41BD6C6A8101}|CleanChef\\CleanerChef.csproj|solutionrelative:cleanchef\\cleanchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\logan\\Desktop\\Personal Projects\\LBurnsUF\\CleanChef\\Cleaner-Chef\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\logan\\Desktop\\Personal Projects\\LBurnsUF\\CleanChef\\Cleaner-Chef\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "manifest.json",
-              "DocumentMoniker": "C:\\Users\\logan\\Desktop\\Personal Projects\\LBurnsUF\\CleanChef\\Cleaner-Chef\\manifest.json",
-              "RelativeDocumentMoniker": "manifest.json",
-              "ToolTip": "C:\\Users\\logan\\Desktop\\Personal Projects\\LBurnsUF\\CleanChef\\Cleaner-Chef\\manifest.json",
-              "RelativeToolTip": "manifest.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-01T23:34:29.935Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\logan\\Desktop\\Personal Projects\\LBurnsUF\\CleanChef\\Cleaner-Chef\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\logan\\Desktop\\Personal Projects\\LBurnsUF\\CleanChef\\Cleaner-Chef\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-02T01:19:50.731Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +45,9 @@
               "RelativeDocumentMoniker": "CleanChef\\CleanChef.cs",
               "ToolTip": "C:\\Users\\logan\\Desktop\\Personal Projects\\LBurnsUF\\CleanChef\\Cleaner-Chef\\CleanChef\\CleanChef.cs",
               "RelativeToolTip": "CleanChef\\CleanChef.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T23:33:29.114Z",
+              "WhenOpened": "2026-01-02T01:16:40.273Z",
               "EditorCaption": ""
             }
           ]
